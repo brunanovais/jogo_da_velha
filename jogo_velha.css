@@ -33,3 +33,20 @@ footer{
    margin-top: 10px;
    margin-bottom: 78px;
 }
+
+.jogo {
+
+}
+
+.espacos {
+    width: 130px;
+    height: 130px;
+    background-color: #ffaab8;
+    margin: 10px;
+    border-radius: 10px;
+    float: left;
+}
+
+.espacos:focus{
+    background-color: aqua;
+}
