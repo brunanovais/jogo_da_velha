@@ -1,0 +1,35 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0%;
+}
+
+body {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'DynaPuff', cursive;
+    height: 100%;
+    background-image: linear-gradient(to bottom, rgb(248, 81, 109) 0%, rgb(218, 153, 238) 150%);
+    text-align: center;
+}
+
+.titulo {
+   
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+section {
+    width: 450px;
+    height: 450px;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.63); 
+    text-align: center;
+    margin: auto;
+}
+footer{
+   margin-top: 10px;
+   margin-bottom: 78px;
+}
